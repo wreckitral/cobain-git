@@ -1,1 +1,0 @@
-- ketikkan command node app.js di terminal anda
